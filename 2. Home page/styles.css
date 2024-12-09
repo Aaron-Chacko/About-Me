@@ -1,0 +1,127 @@
+.iphone-SE {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-SE .div {
+  background: linear-gradient(
+    180deg,
+    rgb(128, 0, 255) 55.5%,
+    rgb(0, 191, 255) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 568px;
+  position: relative;
+  width: 320px;
+}
+
+.iphone-SE .overlap-group {
+  background-color: #1c1c1c;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 507px;
+  width: 320px;
+}
+
+.iphone-SE .vector {
+  height: 26px;
+  left: 145px;
+  position: absolute;
+  top: 17px;
+  width: 29px;
+}
+
+.iphone-SE .img {
+  height: 24px;
+  left: 252px;
+  position: absolute;
+  top: 19px;
+  width: 33px;
+}
+
+.iphone-SE .vector-2 {
+  height: 33px;
+  left: 30px;
+  position: absolute;
+  top: 10px;
+  width: 37px;
+}
+
+.iphone-SE .text-wrapper {
+  color: #0a0a0a;
+  font-family: "Orbitron-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+}
+
+.iphone-SE .aot {
+  height: 72px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 117px;
+}
+
+.iphone-SE .cp {
+  height: 72px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 113px;
+}
+
+.iphone-SE .kirito {
+  height: 62px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 189px;
+  width: 141px;
+}
+
+.iphone-SE .kira {
+  height: 121px;
+  left: 219px;
+  object-fit: cover;
+  position: absolute;
+  top: 265px;
+  width: 65px;
+}
+
+.iphone-SE .space {
+  height: 80px;
+  left: 153px;
+  object-fit: cover;
+  position: absolute;
+  top: 406px;
+  width: 149px;
+}
+
+.iphone-SE .football {
+  height: 115px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 386px;
+  width: 66px;
+}
+
+.iphone-SE .messi {
+  height: 83px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 282px;
+  width: 157px;
+}
