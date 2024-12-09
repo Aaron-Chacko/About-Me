@@ -1,0 +1,135 @@
+.iphone-SE {
+  background-color: rgba(255, 255, 255, 1.0);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-SE .div {
+  background: linear-gradient(
+    180deg,
+    rgb(128, 0, 255) 55.5%,
+    rgb(0, 191, 255) 100%
+  );
+  background-color: rgba(255, 255, 255, 1.0);
+  height: 568px;
+  position: relative;
+  width: 320px;
+}
+
+.iphone-SE .text-wrapper {
+  color: #0a0a0a;
+  font-family: "Orbitron-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+}
+
+.iphone-SE .kirito {
+  height: 137px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 288px;
+}
+
+.iphone-SE .overlap {
+  background-color: #1c1c1c;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 507px;
+  width: 320px;
+}
+
+.iphone-SE .vector {
+  height: 26px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 29px;
+}
+
+.iphone-SE .img {
+  height: 24px;
+  left: 252px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 33px;
+}
+
+.iphone-SE .vector-2 {
+  height: 33px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 37px;
+}
+
+.iphone-SE .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Orbitron-SemiBold", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 283px;
+}
+
+.iphone-SE .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Orbitron-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 324px;
+}
+
+.iphone-SE .mask-group {
+  height: 38px;
+  left: 57px;
+  position: absolute;
+  top: 276px;
+  width: 36px;
+}
+
+.iphone-SE .group {
+  height: 40px;
+  left: 16px;
+  position: absolute;
+  top: 423px;
+  width: 290px;
+}
+
+.iphone-SE .overlap-group {
+  background-color: #f1f1f1;
+  height: 40px;
+  position: relative;
+  width: 288px;
+}
+
+.iphone-SE .text-wrapper-4 {
+  color: #b7a5a5;
+  font-family: "Orbitron-SemiBold", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
